@@ -12,7 +12,7 @@ defineProps(['data']);
         <div class="flex-1">
             <div class="flex justify-between items-center">
                 <div>
-                    <span class="text-gray-400">Advice</span>
+                    <span class="text-gray-400">Universe say ...</span>
                   
                 </div>
             </div>
