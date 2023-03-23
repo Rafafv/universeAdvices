@@ -37,20 +37,16 @@ const props = defineProps({
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
 
                     
-                    <div
-                        class="rotate-45 hover:rotate-0 scale-100 p-6 bg-white dark:bg-gray-800/50 dark:bg-gradient-to-bl from-gray-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-gray-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500"
-                    >
+                    <div class="rotate-45 hover:rotate-0 scale-100 p-6 bg-white dark:bg-gray-800/50 dark:bg-gradient-to-bl from-gray-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-gray-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                         <div class="max-w-2xl mx-auto p-4 sm:p-6 lg:p-8">
                                 <Advice                                                         
                                 :data="advices"
                                 ></Advice>
-                                <InputError :message="form.errors.message" class="mt-2" />
-                               
+                                <InputError :message="form.errors.message" class="mt-2" />                               
                                 <LinkAdvice as="button" :href="route('advices.index')" method="get">
                                     New amazing advice
-                                </LinkAdvice>
-                                
-                            
+                                </LinkAdvice>                             
+                           
                         </div>     
                     </div> 
                     <div class=" rounded-full scale-100 p-4 bg-sky-900 from-gray-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 dark:shadow-none flex transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
@@ -80,7 +76,7 @@ const props = defineProps({
                             <div class="h-6 w-6 bg-red-50 flex items-center justify-center rounded-full animate-pulse">
                                     
                             </div>
-
+                            
                         </div>
 
                     </div>
