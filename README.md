@@ -36,12 +36,3 @@ API utilizada https://api.adviceslip.com/
 
 
 
-
-
-
-
-
-
-
-
-
