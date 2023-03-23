@@ -1,17 +1,17 @@
 
+# Universe Advices
 
 
+![universe](https://user-images.githubusercontent.com/62154515/227246042-603112db-c3bc-47ec-9a4e-e8dc8d20d18a.jpg)
 
-
-
-:construction: Project under construction :construction:
 
 
  [Requirements](#requirements) -   [Windows](#windows) - [MacOS](#macos) - [Linux](#linux) - [Construction](#construction)
 
 ## Requirements
 
-This project has a Devcontainer, so you just need download a docker
+This project has a Devcontainer, so you just need download a docker. More about Devcontainers
+https://laravel.com/docs/10.x/sail#using-devcontainers
 
 * Docker
 
