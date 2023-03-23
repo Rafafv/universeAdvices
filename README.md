@@ -1,3 +1,54 @@
+
+
+
+
+API utilizada https://api.adviceslip.com/
+
+:construction: Project under construction :construction:
+
+
+* [Requirements](#requirements)
+* [Windows](#windows)
+* [MacOS](#macos)
+* [Linux](#linux)
+* [Clone](#clone)
+* [Constructed with Laravel](#constructedwithlaravel)
+
+## Requirements
+
+
+
+
+
+
+### :construction: Constructed with Laravel 😍 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
